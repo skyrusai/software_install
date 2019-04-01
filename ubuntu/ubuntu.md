@@ -6,6 +6,9 @@ sudo passwd hadoop
 
 sudo adduser hadoop sudo
 
+sudo -i
+
+
 ===================================
 
 常用 快捷键 
