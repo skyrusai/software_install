@@ -15,8 +15,12 @@ source ~/.bashrc
 
 conda create -n py35 python=3.5
 
+conda create -n py27 python=2.7
+
 source activate py35
+
 conda activate py35
+conda activate py27
 
 source deactivate
 
